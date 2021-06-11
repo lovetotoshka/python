@@ -8,6 +8,6 @@ h1 Python
 ### тест 3
 ***
 ```python
-print('Hello world!)
+print('Hello world!')
 print(1+2)
 ```
