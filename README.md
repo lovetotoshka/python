@@ -11,3 +11,4 @@ h1 Python
 print('Hello world!')
 print(1+2)
 ```
+```<python def func(a,b):>```
