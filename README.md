@@ -12,4 +12,9 @@ print('Hello world!')
 print(1+2)
 ```
 ```<python def func(a,b):>```
+
 ~~pascal~~
+
+    dir /fonts
+    dir /images
+    dir /js
